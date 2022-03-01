@@ -13,3 +13,9 @@ bandwidth of the filters tuneable by controlling dc current.
 
 # SIMULATION RESULTS
 
+
+# REFERENCE
+[1] J. Vista, A. Ranjan, “A simple floating MOS-memristor
+for high-frequency applications”, IEEE Trans. Very Large
+Scale Integr. Syst. 27(5), 1186–1195 (2019)
+

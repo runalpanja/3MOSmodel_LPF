@@ -12,6 +12,7 @@ bandwidth of the filters tuneable by controlling dc current.
 
 
 # SIMULATION RESULTS
+![Screenshot 2022-03-01 at 11 46 43 PM](https://user-images.githubusercontent.com/100710081/156225825-12e2e788-e989-4672-b7ad-54ae4a634d0b.png)
 
 
 # REFERENCE
